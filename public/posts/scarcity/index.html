@@ -94,7 +94,13 @@
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
-
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 </head>
 
 
@@ -135,7 +141,7 @@
     
 
 </div>
-
+<div id="search"></div>
     </header>
 
     <main class="main">
@@ -154,7 +160,7 @@
 
     
 
-    <h1 class="single-title">Scarcity</h1>
+    <h1 class="single-title" data-pagefind-body>Scarcity</h1>
     
 
     
