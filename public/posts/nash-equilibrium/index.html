@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=42451&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<link rel="icon" type="image/ico" href="http://localhost:42451//favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:42451//favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:42451//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="http://localhost:42451//android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:42451//apple-touch-icon.png">
+
+<meta name="description" content="A stable state in a game where no player can gain advantage through a unilateral change in strategy, assuming other players maintain their strategies."/>
+
+
+
+<title>
+    
+    Nash equilibrium | Mental Models 101
+    
+</title>
+
+<link rel="canonical" href="http://localhost:42451/posts/nash-equilibrium/"/>
+
+<meta property="og:url" content="http://localhost:42451/posts/nash-equilibrium/">
+  <meta property="og:site_name" content="Mental Models 101">
+  <meta property="og:title" content="Nash equilibrium">
+  <meta property="og:description" content="A stable state in a game where no player can gain advantage through a unilateral change in strategy, assuming other players maintain their strategies.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:tag" content="Economics and Strategy">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.645cea0a33677acc57afb24c27ad089b56644d6e166396a36a17c27843baf120.css" media="all">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class="light">
+
+  <div class="content">
+    <header>
+      
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">
+        <a href="http://localhost:42451/">Mental Models 101</a>
+    </h1>
+
+    <div class="flex">
+        
+
+        
+        
+      
+        <p class="small ">
+            <a href="/posts" >
+                /posts
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+
+    </header>
+
+    <main class="main">
+      
+
+
+
+
+<div class="breadcrumbs"><a href="/">Home</a><span class="breadcrumbs-separator">/</span><a href="/posts/">Posts</a><span class="breadcrumbs-separator">/</span>
+        <a href="/posts/nash-equilibrium/">Nash equilibrium</a></div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">Nash equilibrium</h1>
+    
+
+    
+
+    <p class="single-readtime">
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+  
+
+  <div class="single-tags">
+    
+    <span>
+      <a href="http://localhost:42451/tags/economics-and-strategy/">#Economics and Strategy</a>
+    </span>
+    
+    
+  </div>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <p>Have you ever wondered why gas stations in the same area often price their gas similarly, even without directly colluding? Or why so many people rush to sell their stocks during a market downturn? These seemingly disconnected events can be better understood through a powerful mental model called <strong>Nash equilibrium</strong>. It&rsquo;s a concept that goes beyond game theory textbooks and has profound implications for how we make decisions in business, personal relationships, and even everyday life. Let&rsquo;s dive in!</p>
+<h3 class="heading" id="1-what-is-nash-equilibrium">
+  1. What is Nash Equilibrium?
+  <a class="anchor" href="#1-what-is-nash-equilibrium">#</a>
+</h3>
+<p>In essence, <strong>Nash equilibrium</strong> describes a stable state in a game (or any situation involving interacting choices) where no player can improve their outcome by unilaterally changing their strategy, assuming all other players stick to their strategies. Imagine a group of friends deciding on a restaurant. If everyone has chosen their preferred restaurant, and no one would benefit by switching to another restaurant given everyone else&rsquo;s choice, then they&rsquo;ve reached a Nash equilibrium.</p>
+<p>The concept is named after John Nash, a brilliant mathematician who won the Nobel Prize in Economics for his groundbreaking work on game theory. Though rooted in economics, the principles behind <strong>Nash equilibrium</strong> extend far beyond, offering insights into any situation involving strategic interactions.</p>
+<h3 class="heading" id="2-how-it-works">
+  2. How It Works
+  <a class="anchor" href="#2-how-it-works">#</a>
+</h3>
+<p>Think of <strong>Nash equilibrium</strong> as a situation where everyone is playing their &ldquo;best response&rdquo; given what everyone else is doing. To understand it better, let&rsquo;s break it down:</p>
+<ul>
+<li><strong>Players:</strong> Individuals or entities making decisions.</li>
+<li><strong>Strategies:</strong> The possible actions each player can take.</li>
+<li><strong>Payoffs:</strong> The outcome or reward each player receives based on the chosen strategies.</li>
+</ul>
+<p>Imagine two competing companies, Alpha and Beta, deciding whether to launch a new product.</p>
+<ul>
+<li><strong>Players:</strong> Alpha and Beta.</li>
+<li><strong>Strategies:</strong> Launch the product or don&rsquo;t launch.</li>
+<li><strong>Payoffs:</strong> Market share, profit, etc., depending on each company&rsquo;s decision.</li>
+</ul>
+<p>Here’s a simplified example:</p>
+
+<div class="table-outer">
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Beta: Launch</th>
+                <th>Beta: Don&rsquo;t Launch</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Alpha: Launch</td>
+                <td>(5, 5)</td>
+                <td>(10, 0)</td>
+            </tr>
+            <tr>
+                <td>Alpha: Don&rsquo;t Launch</td>
+                <td>(0, 10)</td>
+                <td>(7, 7)</td>
+            </tr>
+        </tbody>
+    </table>
+</div><p><em>The numbers represent the payoff for Alpha and Beta, respectively. For instance, if Alpha launches and Beta doesn&rsquo;t, Alpha gets a payoff of 10 and Beta gets a payoff of 0.</em></p>
+<p>In this case, there are two Nash equilibria:</p>
+<ol>
+<li>Both Alpha and Beta Launch (5,5): Neither company can improve its payoff by unilaterally changing to &ldquo;Don&rsquo;t Launch&rdquo; when the other is launching.</li>
+<li>Both Alpha and Beta Don&rsquo;t Launch (7,7): Neither company can improve its payoff by unilaterally changing to &ldquo;Launch&rdquo; when the other is not launching.</li>
+</ol>
+<p>It&rsquo;s important to remember that a <strong>Nash equilibrium</strong> doesn&rsquo;t necessarily mean the <em>best</em> outcome for everyone. It just means no one has an incentive to change their strategy unilaterally.</p>
+<h3 class="heading" id="3-examples-of-the-model-in-action">
+  3. Examples of the Model in Action
+  <a class="anchor" href="#3-examples-of-the-model-in-action">#</a>
+</h3>
+<ul>
+<li><strong>Business: Competitive Pricing:</strong> As mentioned earlier, gas stations often cluster their prices. If one gas station lowers its price significantly, others will likely follow to remain competitive. This leads to a <strong>Nash equilibrium</strong> where prices are relatively similar. No gas station can drastically increase its price without losing customers to the others.</li>
+<li><strong>Personal Life: Sharing Household Chores:</strong> Imagine two roommates dividing household chores. If one roommate slacks off, the other might start slacking off as well, leading to a suboptimal but stable <strong>Nash equilibrium</strong> where both roommates do less than their fair share.</li>
+<li><strong>Investing: Market Panics:</strong> During a stock market crash, investors often rush to sell their holdings, fearing further losses. This mass selling can exacerbate the downturn, creating a <strong>Nash equilibrium</strong> where everyone is selling, even though it might be detrimental to the overall market and individual investors in the long run. Each individual investor believes they are better off selling given that everyone else is selling, even if the combined effect hurts everyone.</li>
+</ul>
+<h3 class="heading" id="4-common-misunderstandings-or-pitfalls">
+  4. Common Misunderstandings or Pitfalls
+  <a class="anchor" href="#4-common-misunderstandings-or-pitfalls">#</a>
+</h3>
+<ul>
+<li><strong>Assuming Nash Equilibrium is &ldquo;Optimal&rdquo;:</strong> As highlighted earlier, <strong>Nash equilibrium</strong> doesn&rsquo;t always lead to the best overall outcome. It just describes a stable state where no individual player has an incentive to deviate. A classic example is the Prisoner&rsquo;s Dilemma.</li>
+<li><strong>Ignoring External Factors:</strong> The model assumes a closed system. Real-world situations are often influenced by factors not included in the model, such as government regulations, technological advancements, or changes in consumer preferences.</li>
+<li><strong>Assuming Rationality:</strong> <strong>Nash equilibrium</strong> relies on the assumption that players are rational and act in their own self-interest. However, people are often driven by emotions, biases, and social norms, which can lead to deviations from the predicted equilibrium.</li>
+</ul>
+<h3 class="heading" id="5-how-to-apply-it-in-daily-life">
+  5. How to Apply It in Daily Life
+  <a class="anchor" href="#5-how-to-apply-it-in-daily-life">#</a>
+</h3>
+<ul>
+<li><strong>Anticipate Reactions:</strong> When making a decision that affects others, try to anticipate how they will react to your choices. Consider their potential strategies and how they might respond to maximize their own payoffs.</li>
+<li><strong>Identify Stable States:</strong> Look for situations where existing patterns of behavior seem resistant to change. These are often <strong>Nash equilibrium</strong> situations. Understanding why these patterns persist can help you predict future outcomes and identify potential leverage points for change.</li>
+<li><strong>Question Unilateral Changes:</strong> Before making a decision, ask yourself if unilaterally changing your strategy will genuinely improve your outcome, considering the likely reactions of others. If not, you might be better off sticking to the existing equilibrium.</li>
+</ul>
+<h3 class="heading" id="6-related-mental-models">
+  6. Related Mental Models
+  <a class="anchor" href="#6-related-mental-models">#</a>
+</h3>
+<ul>
+<li><strong>Prisoner&rsquo;s Dilemma:</strong> A classic game theory scenario that illustrates how individually rational choices can lead to a collectively suboptimal outcome. It highlights the potential tension between individual self-interest and cooperation.</li>
+<li><strong>Game Theory:</strong> The broader framework within which <strong>Nash equilibrium</strong> sits. Understanding game theory provides a deeper understanding of strategic interactions and decision-making in competitive environments.</li>
+<li><strong>Second-Order Thinking:</strong> This model encourages you to think beyond the immediate consequences of your actions and consider the potential indirect and long-term effects, including how others might react. This is essential for identifying potential <strong>Nash equilibrium</strong> situations.</li>
+</ul>
+<p>By understanding and applying the concept of <strong>Nash equilibrium</strong>, you can gain a powerful advantage in navigating complex strategic situations, predicting the behavior of others, and making more informed decisions in all aspects of your life. So, the next time you&rsquo;re trying to figure out why things are the way they are, remember to ask yourself: &ldquo;Is this a Nash equilibrium?&rdquo;</p>
+
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flexnowrap">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/posts/network-effects/">
+                        Network effects
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/narrative-fallacy/">
+                        Narrative fallacy
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+    </main>
+  </div>
+
+  
+  
+
+
+
+
+
+    
+
+
+
+
+  <footer>
+    
+
+    
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+    <p>Collection of Mental Models compiled with ♥</p>
+    
+
+
+  </footer>
+
+  
+</body>
+
+<script src="/js/theme-switch.js"></script>
+<script defer src="/js/copy-code.js"></script>
+</html>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numeracy and Interpretation on Mental Models 101</title>
+    <link>http://localhost:42451/tags/numeracy-and-interpretation/</link>
+    <description>Recent content in Numeracy and Interpretation on Mental Models 101</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:42451/tags/numeracy-and-interpretation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anscombe&#39;s quartet</title>
+      <link>http://localhost:42451/posts/anscombes-quartet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/anscombes-quartet/</guid>
+      <description>&lt;p&gt;We all love a good spreadsheet. Rows and columns, averages and regressions&amp;hellip; data can feel powerful. But what if I told you that numbers alone can be deceiving? That&amp;rsquo;s where &lt;strong&gt;Anscombe&amp;rsquo;s quartet&lt;/strong&gt; comes in. This deceptively simple mental model highlights the critical importance of visualizing data, instead of blindly relying on summary statistics. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-anscombes-quartet&#34;&gt;&#xA;  1. What is Anscombe&amp;rsquo;s Quartet?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-anscombes-quartet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anscombe&amp;rsquo;s quartet&lt;/strong&gt; is a set of four datasets, cleverly constructed by statistician Francis Anscombe in 1973. The mind-blowing thing about these datasets? They share nearly identical simple statistical properties, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Black swans</title>
+      <link>http://localhost:42451/posts/black-swans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/black-swans/</guid>
+      <description>&lt;p&gt;Life rarely goes exactly as planned. We build models, make predictions, and strategize, but then… BAM! Something completely unexpected throws everything into disarray. That &amp;ldquo;something&amp;rdquo; might be a &lt;strong&gt;Black Swan&lt;/strong&gt;, a concept that can dramatically change how you think about risk, planning, and the future.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-black-swans&#34;&gt;&#xA;  1. What is Black Swans?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-black-swans&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, &lt;strong&gt;Black swans&lt;/strong&gt; are rare, unpredictable events that have a massive impact. They&amp;rsquo;re outliers, lying far outside the realm of normal expectations. After they happen, however, we often convince ourselves we should have seen them coming, weaving narratives that make them seem almost inevitable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Central limit theorem</title>
+      <link>http://localhost:42451/posts/central-limit-theorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/central-limit-theorem/</guid>
+      <description>&lt;p&gt;The world is a chaotic place, full of unpredictable events. But beneath the surface of randomness lies a powerful force: the &lt;strong&gt;Central Limit Theorem&lt;/strong&gt;. This isn’t just a statistical concept; it&amp;rsquo;s a fundamental mental model that helps us understand how patterns emerge from chaos. If you understand this, you&amp;rsquo;ll be one step ahead in navigating everything from investing to understanding customer behavior.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-central-limit-theorem&#34;&gt;&#xA;  1. What is Central Limit Theorem?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-central-limit-theorem&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, the &lt;strong&gt;Central Limit Theorem&lt;/strong&gt; (CLT) states: &lt;em&gt;When independent random variables are added together, their sum (or average) tends toward a normal distribution (the bell curve), even if the original variables are not normally distributed.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Churn</title>
+      <link>http://localhost:42451/posts/churn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/churn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Churn&lt;/strong&gt;. The word itself sounds unpleasant, doesn’t it? And in the business world, it’s a headache you constantly need to monitor. But &lt;strong&gt;churn&lt;/strong&gt; isn&amp;rsquo;t just about business; it&amp;rsquo;s a fundamental concept that impacts many areas of life. By understanding the &lt;strong&gt;churn&lt;/strong&gt; mental model, we can better anticipate and address attrition in all its forms.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-churn&#34;&gt;&#xA;  1. What is Churn?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-churn&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, &lt;strong&gt;churn&lt;/strong&gt; is the rate at which customers stop using a product or service. It&amp;rsquo;s the reverse of growth. Think of it like a leaky bucket: you&amp;rsquo;re pouring in new water (acquiring new customers), but some is always escaping through the holes (customers leaving). &lt;strong&gt;Churn&lt;/strong&gt; represents the size and frequency of those holes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Compound interest</title>
+      <link>http://localhost:42451/posts/compound-interest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/compound-interest/</guid>
+      <description>&lt;p&gt;Want to unlock exponential growth in your life? It&amp;rsquo;s not just about getting rich quick schemes or overnight success. The secret lies in understanding and applying the mental model of &lt;strong&gt;compound interest&lt;/strong&gt;. While most people associate it with finance, its power extends far beyond your bank account, influencing everything from your knowledge base to your relationships. Ready to learn how to harness this powerful concept? Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-compound-interest&#34;&gt;&#xA;  1. What is Compound Interest?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-compound-interest&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In the simplest terms, &lt;strong&gt;compound interest&lt;/strong&gt; is the phenomenon where interest earned is added to the principal, and then that new, larger sum earns interest. It&amp;rsquo;s interest earning interest, creating an accelerating effect. Think of it as a snowball rolling downhill – it starts small, but as it gathers more snow, it grows exponentially faster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ergodicity</title>
+      <link>http://localhost:42451/posts/ergodicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/ergodicity/</guid>
+      <description>&lt;p&gt;Ever made a decision based on averages only to be completely blindsided by reality? You’re not alone. Understanding &lt;strong&gt;Ergodicity&lt;/strong&gt;, a powerful mental model, can help you navigate a world where past performance isn&amp;rsquo;t always a reliable predictor of future outcomes, especially for you as an individual.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-ergodicity&#34;&gt;&#xA;  1. What is Ergodicity?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-ergodicity&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In the simplest terms, &lt;strong&gt;Ergodicity&lt;/strong&gt; describes a property where the time average of a process equals its ensemble average. Let&amp;rsquo;s break that down:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goodhart&#39;s law</title>
+      <link>http://localhost:42451/posts/goodharts-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/goodharts-law/</guid>
+      <description>&lt;p&gt;We love metrics. Numbers give us a sense of control, a feeling we’re making progress. But what happens when we become &lt;em&gt;too&lt;/em&gt; obsessed with those numbers? This is where &lt;strong&gt;Goodhart&amp;rsquo;s law&lt;/strong&gt; comes in, a vital mental model for navigating a world increasingly driven by data. Understanding it can save you from unintended consequences and keep you focused on what truly matters.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-goodharts-law&#34;&gt;&#xA;  1. What is Goodhart&amp;rsquo;s Law?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-goodharts-law&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Goodhart&amp;rsquo;s Law&lt;/strong&gt; is best summarized as: &amp;ldquo;When a measure becomes a target, it ceases to be a good measure.&amp;rdquo; In simpler terms, when you start using a specific metric as a primary goal, people will optimize for &lt;em&gt;that metric&lt;/em&gt; – even if it means sacrificing the original intent or quality it was supposed to represent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kelly criterion</title>
+      <link>http://localhost:42451/posts/kelly-criterion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/kelly-criterion/</guid>
+      <description>&lt;p&gt;The world is full of uncertainties, but sometimes, we encounter opportunities where the odds are tilted in our favor. The challenge then becomes: how much should we risk to maximize our gains without blowing everything up? Enter the &lt;strong&gt;Kelly criterion&lt;/strong&gt;, a powerful mental model for determining optimal bet size, striking a balance between aggressive growth and the dreaded risk of ruin.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-kelly-criterion&#34;&gt;&#xA;  1. What is the Kelly Criterion?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-kelly-criterion&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Kelly criterion&lt;/strong&gt; is a formula that tells you the optimal percentage of your capital to allocate to a bet or investment when you have an edge. In essence, it&amp;rsquo;s a mathematical guide to &amp;ldquo;how much to bet&amp;rdquo; when the odds are in your favor, maximizing your long-term growth while managing risk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Law of large numbers</title>
+      <link>http://localhost:42451/posts/law-of-large-numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/law-of-large-numbers/</guid>
+      <description>&lt;p&gt;Ever feel like the universe is playing tricks on you? That one bad experience makes you question everything? Understanding the &lt;strong&gt;Law of Large Numbers&lt;/strong&gt; can help you cut through the noise and make smarter decisions. This mental model is all about understanding how sample size affects accuracy and how to use that knowledge to your advantage.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-law-of-large-numbers&#34;&gt;&#xA;  1. What is the Law of Large Numbers?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-law-of-large-numbers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Law of Large Numbers&lt;/strong&gt; essentially states that as a sample size grows, its mean (average) gets closer to the average of the entire population. Put simply: the more data you have, the more likely your findings reflect the true nature of things.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Permutations and combinations</title>
+      <link>http://localhost:42451/posts/permutations-and-combinations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/permutations-and-combinations/</guid>
+      <description>&lt;p&gt;Ever wondered how many different ways you can arrange your bookshelf? Or how likely you are to win the lottery? The mental model of &lt;strong&gt;permutations and combinations&lt;/strong&gt; can help you answer these questions and so much more. It&amp;rsquo;s a powerful tool for understanding the vast landscape of possibilities around us, allowing for better decision-making and a deeper understanding of probability.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-are-permutations-and-combinations&#34;&gt;&#xA;  1. What are Permutations and Combinations?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-are-permutations-and-combinations&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;At its core, &lt;strong&gt;permutations and combinations&lt;/strong&gt; are mathematical tools used to determine the number of possible arrangements and groupings of items from a larger set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Power laws</title>
+      <link>http://localhost:42451/posts/power-laws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/power-laws/</guid>
+      <description>&lt;p&gt;We often assume the world operates on a &amp;ldquo;normal&amp;rdquo; curve, with most things clustering around an average. But what if reality is far more skewed? Enter the mental model of &lt;strong&gt;Power Laws&lt;/strong&gt;, a tool that helps us understand phenomena where a small number of factors disproportionately influence the outcome. This isn&amp;rsquo;t just academic; understanding &lt;strong&gt;Power Laws&lt;/strong&gt; can help you make better decisions in business, investing, and even your personal life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific method</title>
+      <link>http://localhost:42451/posts/scientific-method/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/scientific-method/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Scientific Method&lt;/strong&gt; isn&amp;rsquo;t just for lab coats and beakers. It&amp;rsquo;s a powerful mental model you can use to make better decisions, solve problems more effectively, and generally navigate the world with more clarity and confidence. In this post, we&amp;rsquo;ll break down what the Scientific Method is, how it works, and how you can apply it to everything from your career to your relationships.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-scientific-method&#34;&gt;&#xA;  1. What is the Scientific Method?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-scientific-method&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Scientific Method&lt;/strong&gt; is a systematic approach to knowledge acquisition through observation, hypothesis formation, prediction, testing, and analysis. Essentially, it&amp;rsquo;s a structured way of figuring things out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simpson&#39;s paradox</title>
+      <link>http://localhost:42451/posts/simpsons-paradox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/simpsons-paradox/</guid>
+      <description>&lt;p&gt;Have you ever heard something that sounds logical, but then crumbles under closer examination? That&amp;rsquo;s often the work of our biases and assumptions. Today, we&amp;rsquo;re diving into a fascinating mental model called &lt;strong&gt;Simpson&amp;rsquo;s Paradox&lt;/strong&gt;, a statistical trickster that can lead you to completely the wrong conclusions if you&amp;rsquo;re not careful.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Simpson&amp;rsquo;s Paradox?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Simpson&amp;rsquo;s Paradox&lt;/strong&gt; is a statistical phenomenon where a trend appears in &lt;em&gt;separate&lt;/em&gt; groups of data, but that trend disappears – or even reverses – when you &lt;em&gt;combine&lt;/em&gt; those groups. Essentially, what looks true on the surface for individual segments might not be true for the whole population.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on Mental Models 101</title>
+    <link>http://localhost:42451/tags/systems/</link>
+    <description>Recent content in Systems on Mental Models 101</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:42451/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antifragility</title>
+      <link>http://localhost:42451/posts/antifragility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/antifragility/</guid>
+      <description>&lt;p&gt;We often talk about resilience – bouncing back after a setback. But what if you could do more than just bounce back? What if you could actually get &lt;em&gt;stronger&lt;/em&gt; from the shocks and stresses life throws your way? This is where &lt;strong&gt;Antifragility&lt;/strong&gt; comes in.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Antifragility?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Antifragility&lt;/strong&gt;, simply put, is the property of systems that not only resist damage but actually &lt;em&gt;benefit&lt;/em&gt; from volatility, randomness, and disorder. It goes beyond resilience and robustness. A resilient system stays the same when stressed. An antifragile system improves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bottlenecks</title>
+      <link>http://localhost:42451/posts/bottlenecks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/bottlenecks/</guid>
+      <description>&lt;p&gt;Feeling stuck? Like your productivity is a trickle instead of a torrent? The mental model of &lt;strong&gt;Bottlenecks&lt;/strong&gt; might be the key to unlocking your potential. It&amp;rsquo;s a simple yet powerful framework for identifying and addressing the limitations holding you back, whether in your business, your personal life, or any system you&amp;rsquo;re trying to improve. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-bottlenecks&#34;&gt;&#xA;  1. What is Bottlenecks?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-bottlenecks&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In essence, a &lt;strong&gt;Bottleneck&lt;/strong&gt; is the weakest link in a chain. It&amp;rsquo;s the limiting factor in any process that determines the maximum throughput of the entire system. Think of it like this: Imagine an hourglass. The narrowest point, the pinch in the middle, restricts the flow of sand. No matter how wide the top or bottom of the hourglass is, the narrow point dictates how quickly the sand empties.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Complex adaptive systems</title>
+      <link>http://localhost:42451/posts/complex-adaptive-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/complex-adaptive-systems/</guid>
+      <description>&lt;p&gt;Ever try to predict what the stock market will do tomorrow? Or how your team will react to a new strategy? If so, you&amp;rsquo;ve bumped into the frustrating reality of &lt;strong&gt;complex adaptive systems&lt;/strong&gt;. This mental model offers a powerful framework for understanding why some things are just so… unpredictable. Understanding this framework is key to navigating the complexities of our world.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-complex-adaptive-systems&#34;&gt;&#xA;  1. What is Complex Adaptive Systems?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-complex-adaptive-systems&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In a nutshell, &lt;strong&gt;complex adaptive systems&lt;/strong&gt; are systems where understanding the individual parts &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; allow you to predict the behavior of the whole. Why? Because these systems adapt and evolve in often unpredictable ways based on the interactions of their individual components. Think of it like this: knowing all the ingredients in a cake recipe doesn&amp;rsquo;t tell you how delicious the &lt;em&gt;baked&lt;/em&gt; cake will be, nor how quickly your family will devour it!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Critical mass</title>
+      <link>http://localhost:42451/posts/critical-mass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/critical-mass/</guid>
+      <description>&lt;p&gt;Ever wondered why some ideas take off like rockets while others fizzle out before they even leave the ground? Or why some social movements gain unstoppable momentum while others remain on the fringes? The answer often lies in understanding the power of &lt;strong&gt;critical mass&lt;/strong&gt;, a powerful mental model that explains how systems reach a self-sustaining tipping point.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Critical Mass?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Critical mass&lt;/strong&gt; is the minimum amount of &amp;ldquo;stuff&amp;rdquo; – whether it&amp;rsquo;s resources, adoption, momentum, or something else entirely – needed to initiate and sustain a reaction or movement. It&amp;rsquo;s the threshold you need to cross to move from a state of dependence on initial inputs to a state of self-perpetuation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entropy</title>
+      <link>http://localhost:42451/posts/entropy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/entropy/</guid>
+      <description>&lt;p&gt;We all intuitively understand that things tend to fall apart. Your desk gets cluttered, your car gets dirty, and even thriving companies can crumble. This isn&amp;rsquo;t just bad luck; it&amp;rsquo;s a fundamental law of the universe in action: &lt;strong&gt;Entropy&lt;/strong&gt;. Understanding the mental model of &lt;strong&gt;Entropy&lt;/strong&gt; can give you a powerful advantage in navigating life, business, and everything in between.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-entropy&#34;&gt;&#xA;  1. What is Entropy?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-entropy&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, &lt;strong&gt;Entropy&lt;/strong&gt; is the natural tendency of systems to become more disordered over time. Think of it as the universe&amp;rsquo;s relentless push towards chaos. Maintaining order requires constant energy input. Leave a sandcastle unattended, and the waves will eventually level it. Stop cleaning your room, and clutter will inevitably take over.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feedback loops</title>
+      <link>http://localhost:42451/posts/feedback-loops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/feedback-loops/</guid>
+      <description>&lt;p&gt;Have you ever wondered why some things seem to snowball into incredible success, while others spiral downwards despite your best efforts? The answer often lies in understanding &lt;strong&gt;feedback loops&lt;/strong&gt;, a powerful mental model that explains how systems self-regulate and evolve over time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Feedback Loops?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;feedback loop&lt;/strong&gt; occurs when the output of a system is fed back as input, influencing the system&amp;rsquo;s subsequent behavior. Think of it like a snake eating its own tail, except instead of literal consumption, it&amp;rsquo;s information circulating.  More formally, it&amp;rsquo;s when the output of a system is routed back as input, creating self-reinforcing cycles. These cycles can be positive (compounding growth) or negative (stabilizing).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lindy effect</title>
+      <link>http://localhost:42451/posts/lindy-effect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/lindy-effect/</guid>
+      <description>&lt;p&gt;Have you ever wondered why some ideas, books, or even companies seem to just… stick around? While fleeting trends come and go, certain things endure. The reason might be the &lt;strong&gt;Lindy effect&lt;/strong&gt;, a fascinating mental model that helps us predict the future longevity of things that don&amp;rsquo;t have a natural lifespan. Let&amp;rsquo;s dive in.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-lindy-effect&#34;&gt;&#xA;  1. What is the Lindy Effect?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-lindy-effect&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, the &lt;strong&gt;Lindy effect&lt;/strong&gt; states that &lt;strong&gt;the longer something non-perishable has existed, the longer it is likely to continue existing.&lt;/strong&gt; Think of it like this: a book that&amp;rsquo;s been in print for 50 years is likely to remain in print for another 50 years. A new technology might seem promising, but its odds of lasting are significantly lower than a technology that&amp;rsquo;s already proven itself over decades.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metcalfe&#39;s law</title>
+      <link>http://localhost:42451/posts/metcalfes-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/metcalfes-law/</guid>
+      <description>&lt;p&gt;Ever wondered why Facebook became a global phenomenon, or why even niche online communities can feel surprisingly valuable? A powerful mental model called &lt;strong&gt;Metcalfe&amp;rsquo;s law&lt;/strong&gt; can help explain this phenomenon. It&amp;rsquo;s a simple idea with profound implications, especially in our interconnected world.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-metcalfes-law&#34;&gt;&#xA;  1. What is Metcalfe&amp;rsquo;s Law?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-metcalfes-law&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Metcalfe&amp;rsquo;s law&lt;/strong&gt; states that the value of a network is proportional to the square of the number of connected users in the network. In simpler terms: as more people join a network, the value of that network increases exponentially, not just linearly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moore&#39;s law</title>
+      <link>http://localhost:42451/posts/moores-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/moores-law/</guid>
+      <description>&lt;p&gt;Have you ever wondered why your smartphone is exponentially more powerful than the computers that sent astronauts to the moon? A key reason is &lt;strong&gt;Moore&amp;rsquo;s law&lt;/strong&gt;, a powerful mental model that helps us understand technological progress and its potential impact. Let&amp;rsquo;s dive into what it is and how we can use it to our advantage.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-moores-law&#34;&gt;&#xA;  1. What is Moore&amp;rsquo;s Law?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-moores-law&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Simply put, &lt;strong&gt;Moore&amp;rsquo;s law&lt;/strong&gt; states that the number of transistors on a microchip doubles approximately every two years, while the cost remains the same. This translates to computing power roughly doubling and the cost of that power halving over the same period.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network effects</title>
+      <link>http://localhost:42451/posts/network-effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/network-effects/</guid>
+      <description>&lt;p&gt;Ever wondered why Facebook became the dominant social network or why Uber disrupted the taxi industry? The secret often lies in a powerful mental model called &lt;strong&gt;Network Effects&lt;/strong&gt;. Understanding &lt;strong&gt;Network Effects&lt;/strong&gt; can help you make better decisions in business, investing, and even your personal life. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Network Effects?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Network Effects&lt;/strong&gt; describe the phenomenon where a product or service becomes &lt;em&gt;more valuable&lt;/em&gt; as more people use it. Think of it like this: A telephone is pretty useless if you&amp;rsquo;re the only person who owns one. But as more and more people get phones, its value skyrockets because you can connect with a larger network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Peter principle</title>
+      <link>http://localhost:42451/posts/peter-principle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/peter-principle/</guid>
+      <description>&lt;p&gt;Have you ever seen someone amazing in their job get promoted, only to flounder in their new role? Maybe &lt;em&gt;you&amp;rsquo;ve&lt;/em&gt; even experienced this yourself. You might be witnessing the &lt;strong&gt;Peter principle&lt;/strong&gt; in action, a surprisingly common phenomenon that impacts everything from the workplace to even personal growth. Let&amp;rsquo;s dive into what it is and how you can use this mental model to navigate your career and beyond.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-peter-principle&#34;&gt;&#xA;  1. What is the Peter Principle?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-peter-principle&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Peter principle&lt;/strong&gt;, simply put, states that in hierarchical organizations, individuals tend to rise to their level of incompetence. It was coined by Laurence J. Peter and Raymond Hull in their 1969 book of the same name. They observed that people are typically promoted based on their performance in their current role. However, success in one role doesn&amp;rsquo;t guarantee success in the next. This process continues until they reach a position where they are no longer competent, essentially becoming &amp;ldquo;stuck&amp;rdquo; at their level of incompetence. The model is a sociological observation based on real-world behavior within structured organizations, drawing from principles of management and organizational dynamics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redundancy</title>
+      <link>http://localhost:42451/posts/redundancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/redundancy/</guid>
+      <description>&lt;p&gt;We all want things to work, and keep working. Whether it&amp;rsquo;s your car, your career, or your investments, reliability is key. But what happens when things break? That&amp;rsquo;s where the mental model of &lt;strong&gt;Redundancy&lt;/strong&gt; comes in. By understanding and applying this powerful concept, you can significantly improve the resilience of almost anything.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-redundancy&#34;&gt;&#xA;  1. What is Redundancy?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-redundancy&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Redundancy&lt;/strong&gt;, as a mental model, is the inclusion of extra components or systems that aren&amp;rsquo;t strictly &lt;em&gt;necessary&lt;/em&gt; for something to function under ideal conditions, but which dramatically increase its reliability and resilience against failure. Think of it as a built-in backup plan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Theory of constraints</title>
+      <link>http://localhost:42451/posts/theory-of-constraints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/theory-of-constraints/</guid>
+      <description>&lt;p&gt;Ever feel like you&amp;rsquo;re pushing a boulder uphill, only to realize a tiny pebble is jamming the whole operation? That&amp;rsquo;s where the &lt;strong&gt;Theory of Constraints&lt;/strong&gt; (TOC) comes in. It&amp;rsquo;s a powerful mental model for identifying and tackling the &lt;em&gt;most important&lt;/em&gt; obstacle holding you back from achieving your goals. It&amp;rsquo;s not about fixing &lt;em&gt;everything&lt;/em&gt;, it&amp;rsquo;s about strategically addressing the one thing that makes the biggest difference.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-theory-of-constraints&#34;&gt;&#xA;  1. What is &lt;strong&gt;Theory of Constraints&lt;/strong&gt;?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-theory-of-constraints&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Theory of Constraints&lt;/strong&gt; is a methodology for identifying the most significant limiting factor (the &amp;ldquo;constraint&amp;rdquo; or &amp;ldquo;bottleneck&amp;rdquo;) that stands in the way of achieving a goal, and then systematically improving that constraint until it is no longer the limiting factor. In essence, it&amp;rsquo;s about finding the weakest link in a chain and strengthening &lt;em&gt;that&lt;/em&gt; link, rather than wasting effort on the other, already stronger links.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tragedy of the commons</title>
+      <link>http://localhost:42451/posts/tragedy-of-the-commons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/tragedy-of-the-commons/</guid>
+      <description>&lt;p&gt;Ever wondered why that community garden always seems to have wilting tomatoes, or why your favorite fishing spot is now devoid of fish? You might be witnessing the &lt;strong&gt;Tragedy of the Commons&lt;/strong&gt; in action. It&amp;rsquo;s a powerful mental model that explains a lot about our world, from environmental issues to workplace dynamics. Understanding it can help us make better decisions and build more sustainable systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Tragedy of the Commons?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Via negativa</title>
+      <link>http://localhost:42451/posts/via-negativa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/via-negativa/</guid>
+      <description>&lt;p&gt;Are you constantly chasing after more – more possessions, more knowledge, more achievements? What if the secret to true improvement isn&amp;rsquo;t adding, but subtracting? That&amp;rsquo;s the power of the mental model called &lt;strong&gt;Via negativa&lt;/strong&gt;, and it might just be the missing piece in your quest for a better life.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Via Negativa?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Via negativa&lt;/strong&gt;, literally &amp;ldquo;the negative way,&amp;rdquo; is the principle that improvement often comes through &lt;em&gt;subtraction&lt;/em&gt; rather than addition. Instead of focusing solely on what to &lt;em&gt;add&lt;/em&gt; to reach a goal, it encourages us to identify and &lt;em&gt;remove&lt;/em&gt; the obstacles, constraints, or harmful elements that are holding us back. Think of it as sculpting: you don&amp;rsquo;t build the statue by piling on clay, but by chipping away at what isn&amp;rsquo;t needed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

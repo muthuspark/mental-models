@@ -1,0 +1,49 @@
+baseURL = 'https://mental-models.muthu.co'
+languageCode = 'en-us'
+title = 'Mental Models 101' 
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-T7PH4WNH24"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "Discover powerful mental models to improve your decision-making, solve complex problems, and think clearly in any situation. Practical frameworks, real-world examples, and actionable strategies to upgrade your thinking and achieve better outcomes in business, relationships, and life."
+showFooter = true
+footerContent = "Collection of Mental Models compiled with ♥"
+faviconPath = "/"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroTitle = "Powerful frameworks for smarter decisions"
+homeIntroContent = """
+Discover powerful mental models to improve your decision-making, solve complex problems, and think clearly in any situation. Practical frameworks, real-world examples, and actionable strategies to upgrade your thinking and achieve better outcomes in business, relationships, and life.
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 20
+listSummaries = false
+listDateFormat = '02 Jan 2006'
+
+# Main menu pages
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=42451&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<link rel="icon" type="image/ico" href="http://localhost:42451//favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:42451//favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:42451//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="http://localhost:42451//android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:42451//apple-touch-icon.png">
+
+<meta name="description" content="A statistical phenomenon where a trend appears in separate groups of data but disappears or reverses when the groups are combined."/>
+
+
+
+<title>
+    
+    Simpson&#39;s paradox | Mental Models 101
+    
+</title>
+
+<link rel="canonical" href="http://localhost:42451/posts/simpsons-paradox/"/>
+
+<meta property="og:url" content="http://localhost:42451/posts/simpsons-paradox/">
+  <meta property="og:site_name" content="Mental Models 101">
+  <meta property="og:title" content="Simpson&#39;s paradox">
+  <meta property="og:description" content="A statistical phenomenon where a trend appears in separate groups of data but disappears or reverses when the groups are combined.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:tag" content="Numeracy and Interpretation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.645cea0a33677acc57afb24c27ad089b56644d6e166396a36a17c27843baf120.css" media="all">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class="light">
+
+  <div class="content">
+    <header>
+      
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">
+        <a href="http://localhost:42451/">Mental Models 101</a>
+    </h1>
+
+    <div class="flex">
+        
+
+        
+        
+      
+        <p class="small ">
+            <a href="/posts" >
+                /posts
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+
+    </header>
+
+    <main class="main">
+      
+
+
+
+
+<div class="breadcrumbs"><a href="/">Home</a><span class="breadcrumbs-separator">/</span><a href="/posts/">Posts</a><span class="breadcrumbs-separator">/</span>
+        <a href="/posts/simpsons-paradox/">Simpson&#39;s paradox</a></div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">Simpson&#39;s paradox</h1>
+    
+
+    
+
+    <p class="single-readtime">
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+  
+
+  <div class="single-tags">
+    
+    <span>
+      <a href="http://localhost:42451/tags/numeracy-and-interpretation/">#Numeracy and Interpretation</a>
+    </span>
+    
+    
+  </div>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <p>Have you ever heard something that sounds logical, but then crumbles under closer examination? That&rsquo;s often the work of our biases and assumptions. Today, we&rsquo;re diving into a fascinating mental model called <strong>Simpson&rsquo;s Paradox</strong>, a statistical trickster that can lead you to completely the wrong conclusions if you&rsquo;re not careful.</p>
+<p><strong>1. What is Simpson&rsquo;s Paradox?</strong></p>
+<p><strong>Simpson&rsquo;s Paradox</strong> is a statistical phenomenon where a trend appears in <em>separate</em> groups of data, but that trend disappears – or even reverses – when you <em>combine</em> those groups. Essentially, what looks true on the surface for individual segments might not be true for the whole population.</p>
+<p>The name comes from Edward H. Simpson, who first described this phenomenon in a technical paper in 1951. While Simpson formalized it, related statistical discrepancies were noted earlier in different contexts. It pops up primarily in fields that deal with large datasets and statistical analysis like economics, healthcare, and social sciences.</p>
+<p><strong>2. How It Works</strong></p>
+<p>Imagine two baseball teams, the Sluggers and the Homers. Let&rsquo;s say over the first half of the season:</p>
+<ul>
+<li><strong>The Sluggers</strong> improve their batting average from .240 to .260.</li>
+<li><strong>The Homers</strong> <em>also</em> improve their batting average, from .280 to .300.</li>
+</ul>
+<p>Logically, you might conclude that both teams got better at hitting, right? Makes sense!</p>
+<p>But what if we break down the data by month? It turns out the Sluggers played mostly against weak pitchers in the second half of the season and the Homers played against strong ones.</p>
+<p>Here&rsquo;s the paradox:</p>
+
+<div class="table-outer">
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+                <th>Pitchers Faced</th>
+                <th>First Half Batting Avg.</th>
+                <th>Second Half Batting Avg.</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Sluggers</td>
+                <td>Weak Pitchers</td>
+                <td>.240</td>
+                <td>.260</td>
+            </tr>
+            <tr>
+                <td>Homers</td>
+                <td>Strong Pitchers</td>
+                <td>.280</td>
+                <td>.300</td>
+            </tr>
+        </tbody>
+    </table>
+</div><p><strong>Combined:</strong> The Homers still have a better batting average overall (.290 avg) compared to the Sluggers (.250 avg).</p>
+<p><strong>Individually:</strong> Both teams improved.</p>
+<p>See how the combined data can be misleading? That&rsquo;s Simpson&rsquo;s Paradox in action. The overall trend (Homers are better) hides the individual trends (both teams improved). A lurking variable (the strength of the pitchers) affected the combined data, and that&rsquo;s where the combined conclusion can be misleading.</p>
+<p>A simple framework:</p>
+<ul>
+<li><strong>Segment:</strong> Data divided into meaningful groups.</li>
+<li><strong>Trend within Segments:</strong> Identify the trend (positive or negative) in each segment.</li>
+<li><strong>Overall Trend:</strong> What happens when you combine the data?</li>
+<li><strong>The Paradox:</strong> Does the overall trend contradict the trends within segments?</li>
+</ul>
+<p><strong>3. Examples of the Model in Action</strong></p>
+<ul>
+<li>
+<p><strong>Kidney Stone Treatment:</strong> Doctors compare two treatments for kidney stones. Treatment A seems to have a <em>lower</em> success rate overall than Treatment B. However, when they break down the data by the size of the stones, Treatment A actually has a <em>higher</em> success rate for both small and large stones! The paradox arises because Treatment A is disproportionately used on larger, more difficult stones.</p>
+</li>
+<li>
+<p><strong>Gender Pay Gap:</strong> A company analyzes its salary data and finds that <em>overall</em>, women earn less than men. However, when they break down the data by job title and experience level, women and men earn roughly the same amount <em>within</em> each category. The paradox might be due to women being underrepresented in higher-paying roles or having less seniority on average.</p>
+</li>
+<li>
+<p><strong>College Admissions:</strong> University X appears to have a lower acceptance rate than University Y. But, when you break it down by major, University X&rsquo;s acceptance rate is <em>higher</em> for <em>every single major</em>! This can happen if University X receives many more applicants for its highly competitive majors, creating a lower overall rate despite being more selective within each department.</p>
+</li>
+</ul>
+<p><strong>4. Common Misunderstandings or Pitfalls</strong></p>
+<ul>
+<li><strong>Assuming Simpler is Better:</strong> The combined data <em>isn&rsquo;t inherently wrong</em>. The point of the paradox is that the combined data can be misleading if you don&rsquo;t understand the underlying factors and how they&rsquo;re distributed across the segments.</li>
+<li><strong>Ignoring Confounding Variables:</strong> Failing to identify and account for confounding variables (like the severity of kidney stones or the level of experience) that might be influencing the relationship.</li>
+<li><strong>Over-Simplifying Causation:</strong> Jumping to conclusions about cause and effect without considering the full picture. Just because a trend disappears or reverses doesn&rsquo;t mean there&rsquo;s no relationship – it means the relationship is more complex than it appears.</li>
+</ul>
+<p><strong>5. How to Apply It in Daily Life</strong></p>
+<p>Here&rsquo;s how you can arm yourself against <strong>Simpson&rsquo;s Paradox</strong> in your daily life:</p>
+<ul>
+<li><strong>Always Break Down Data:</strong> When presented with aggregate data, ask yourself if it makes sense to break it down into smaller, more specific groups.</li>
+<li><strong>Look for Lurking Variables:</strong> Consider what other factors might be influencing the data besides the ones being presented. Ask &ldquo;What are we not seeing here?&rdquo;</li>
+<li><strong>Don&rsquo;t Trust Averages Blindly:</strong> Averages can be useful, but they can also mask important underlying trends. Dig deeper!</li>
+<li><strong>Question Assumptions:</strong> Challenge your own assumptions about the relationships between variables. Are you making any implicit assumptions that might be wrong?</li>
+<li><strong>Embrace Complexity:</strong> Recognize that many real-world situations are complex, and simple explanations are often incomplete or misleading.</li>
+</ul>
+<p><strong>6. Related Mental Models</strong></p>
+<ul>
+<li><strong>Correlation vs. Causation:</strong> This model reminds us that correlation doesn&rsquo;t equal causation. Just because two things appear to be related doesn&rsquo;t mean one causes the other. <strong>Simpson&rsquo;s Paradox</strong> can highlight spurious correlations.</li>
+<li><strong>First Principles Thinking:</strong> This model encourages you to break down complex problems into their fundamental elements. By understanding the underlying factors, you can avoid being misled by surface-level trends.</li>
+<li><strong>Occam&rsquo;s Razor:</strong> This principle states that the simplest explanation is usually the best. However, with <strong>Simpson&rsquo;s Paradox</strong>, the <em>simplest</em> explanation based on aggregate data might be completely wrong.</li>
+<li><strong>Base Rate Fallacy:</strong> The Base Rate Fallacy occurs when people put too much emphasis on individual information instead of overall information. Being aware of the Base Rate Fallacy helps avoid errors by considering how often something normally happens.</li>
+</ul>
+<p>By understanding and applying <strong>Simpson&rsquo;s Paradox</strong>, you can become a more critical thinker, make better decisions, and avoid being fooled by misleading statistics. Now, go forth and dissect those averages!</p>
+
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flexnowrap">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/posts/skill-compensation/">
+                        Skill compensation
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/serpico-effect/">
+                        Serpico effect
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+    </main>
+  </div>
+
+  
+  
+
+
+
+
+
+    
+
+
+
+
+  <footer>
+    
+
+    
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+    <p>Collection of Mental Models compiled with ♥</p>
+    
+
+
+  </footer>
+
+  
+</body>
+
+<script src="/js/theme-switch.js"></script>
+<script defer src="/js/copy-code.js"></script>
+</html>

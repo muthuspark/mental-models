@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinking on Mental Models 101</title>
+    <link>http://localhost:42451/tags/thinking/</link>
+    <description>Recent content in Thinking on Mental Models 101</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:42451/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Whys</title>
+      <link>http://localhost:42451/posts/5-whys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/5-whys/</guid>
+      <description>&lt;p&gt;Ever feel like you&amp;rsquo;re just slapping a band-aid on a problem and not really fixing it? You&amp;rsquo;re treating the symptom, not the disease. That&amp;rsquo;s where the &lt;strong&gt;5 Whys&lt;/strong&gt; mental model comes in. It&amp;rsquo;s a powerful tool for getting to the root cause of issues, preventing them from recurring and leading to more effective, lasting solutions. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-5-whys&#34;&gt;&#xA;  1. What is 5 Whys?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-5-whys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;5 Whys&lt;/strong&gt; is a simple, yet incredibly effective problem-solving technique. It involves repeatedly asking the question &amp;ldquo;Why?&amp;rdquo; – typically five times – to drill down to the core cause of a problem rather than merely addressing its surface-level symptoms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bayesian updating</title>
+      <link>http://localhost:42451/posts/bayesian-updating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/bayesian-updating/</guid>
+      <description>&lt;p&gt;Ever feel like you stubbornly stick to your opinions, even when faced with new information? That’s human nature. But what if there was a mental tool to help you be more flexible and accurate in your thinking? Enter &lt;strong&gt;Bayesian updating&lt;/strong&gt;, a powerful mental model that helps you refine your beliefs as new evidence surfaces. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-bayesian-updating&#34;&gt;&#xA;  1. What is Bayesian updating?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-bayesian-updating&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bayesian updating&lt;/strong&gt; is a method of revising a probability estimate as new evidence becomes available, adjusting beliefs incrementally rather than in absolute terms. Think of it as gradually tweaking a dial on your belief system instead of flipping a switch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chauffeur knowledge</title>
+      <link>http://localhost:42451/posts/chauffeur-knowledge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/chauffeur-knowledge/</guid>
+      <description>&lt;p&gt;Ever met someone who seems incredibly knowledgeable about a complex subject, effortlessly throwing around jargon and reciting facts? They might &lt;em&gt;sound&lt;/em&gt; like an expert, but appearances can be deceiving. Today, we&amp;rsquo;re diving into a crucial mental model called &lt;strong&gt;Chauffeur knowledge&lt;/strong&gt;, which helps us distinguish between genuine understanding and the illusion of expertise.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Chauffeur Knowledge?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chauffeur knowledge&lt;/strong&gt; is the difference between true understanding and the &lt;em&gt;appearance&lt;/em&gt; of understanding. It describes the ability to mimic expert knowledge without actually possessing it. The term comes from a story about the physicist Max Planck, who toured giving the same lecture repeatedly. His chauffeur eventually memorized the entire lecture and offered to give it himself one night, with Planck sitting in the audience. After the lecture, one audience member asked a complex question. The chauffeur, unable to answer, replied, &amp;ldquo;That&amp;rsquo;s such a simple question, I&amp;rsquo;ll let my chauffeur answer it.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Circle of competence</title>
+      <link>http://localhost:42451/posts/circle-of-competence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/circle-of-competence/</guid>
+      <description>&lt;p&gt;Have you ever felt like you were in over your head? Maybe during a conversation about a topic you knew little about, or while trying to make a decision you felt completely unprepared for? That&amp;rsquo;s a sign you might be operating outside your &lt;strong&gt;circle of competence&lt;/strong&gt;. This powerful mental model can help you avoid mistakes, make better decisions, and ultimately, achieve more success.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Circle of Competence?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;circle of competence&lt;/strong&gt; is the idea that you should focus your efforts and decision-making within areas where you possess expertise and understanding. Simply put, it&amp;rsquo;s about sticking to what you know. Moving outside your circle creates blind spots, increases the risk of failure, and can lead to costly mistakes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision trees</title>
+      <link>http://localhost:42451/posts/decision-trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/decision-trees/</guid>
+      <description>&lt;p&gt;Ever felt lost in a maze of options? Like every path leads to a different, unknown destination? That&amp;rsquo;s where &lt;strong&gt;Decision Trees&lt;/strong&gt; come in. They&amp;rsquo;re not just for lumberjacks sizing up a potential harvest; they&amp;rsquo;re a powerful mental model that can help you visualize your choices and their possible outcomes, turning that confusing maze into a navigable map.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Decision Trees?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;At its heart, a &lt;strong&gt;Decision Tree&lt;/strong&gt; is a visualization tool representing how different decisions lead to different outcomes. Think of it like a flow chart: the starting point is your initial decision, and from there, branches extend outwards, each representing a possible action or event. Each branch leads to another decision point or a final outcome.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eisenhower matrix</title>
+      <link>http://localhost:42451/posts/eisenhower-matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/eisenhower-matrix/</guid>
+      <description>&lt;p&gt;Feeling overwhelmed? Swamped with tasks that all seem equally pressing? You&amp;rsquo;re not alone. That&amp;rsquo;s where the &lt;strong&gt;Eisenhower matrix&lt;/strong&gt; comes in. This powerful mental model helps you prioritize tasks based on urgency and importance, allowing you to focus on what truly matters and stop spinning your wheels on busywork. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-the-eisenhower-matrix&#34;&gt;&#xA;  1. What is the Eisenhower Matrix?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-the-eisenhower-matrix&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Eisenhower matrix&lt;/strong&gt;, also known as the Urgent-Important matrix, is a decision-making framework designed to help you prioritize tasks and activities. It&amp;rsquo;s a simple yet effective way to organize your to-do list and ensure you&amp;rsquo;re spending your time on things that contribute to your long-term goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hanlon&#39;s razor</title>
+      <link>http://localhost:42451/posts/hanlons-razor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/hanlons-razor/</guid>
+      <description>&lt;p&gt;Ever jumped to the conclusion that someone was deliberately trying to sabotage you, only to find out later they were just… well, a bit clueless? We&amp;rsquo;ve all been there. That&amp;rsquo;s where &lt;strong&gt;Hanlon&amp;rsquo;s razor&lt;/strong&gt; comes in. This powerful mental model encourages us to take a deep breath and consider the most likely explanation before assuming the worst.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s dive in and explore how &lt;strong&gt;Hanlon&amp;rsquo;s razor&lt;/strong&gt; can help you navigate life with less frustration and more understanding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Historical wisdom</title>
+      <link>http://localhost:42451/posts/historical-wisdom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/historical-wisdom/</guid>
+      <description>&lt;p&gt;In a world obsessed with the shiny and new, it&amp;rsquo;s easy to forget the treasure trove of knowledge waiting for us in the past. Enter &lt;strong&gt;Historical wisdom&lt;/strong&gt;, a powerful mental model that leverages past events and accumulated experience to navigate the present and shape the future. Ready to tap into this potent resource? Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-historical-wisdom&#34;&gt;&#xA;  1. What is Historical wisdom?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-historical-wisdom&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Historical wisdom&lt;/strong&gt; is the ability to draw valuable insights and guidance from studying past events and the collective experiences of previous generations. It&amp;rsquo;s about recognizing patterns, understanding consequences, and learning from both successes and failures to inform present-day decisions. Think of it as having a time-traveling mentor who can offer advice based on millennia of human experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inversion</title>
+      <link>http://localhost:42451/posts/inversion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/inversion/</guid>
+      <description>&lt;p&gt;Feeling stuck? Hitting a wall with a persistent problem? Maybe you&amp;rsquo;re approaching it from the wrong angle. Enter &lt;strong&gt;Inversion&lt;/strong&gt;, a powerful mental model that flips your perspective and helps you find solutions by looking at the problem inside out. Instead of aiming directly for success, you figure out how to &lt;em&gt;avoid failure&lt;/em&gt;. Sounds simple, right? It is, and it’s incredibly effective.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Inversion?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Inversion&lt;/strong&gt; is a thinking tool that tackles a challenge by considering its opposite. Instead of asking, &amp;ldquo;How do I achieve X?&amp;rdquo;, you ask, &amp;ldquo;How do I &lt;em&gt;prevent&lt;/em&gt; X?&amp;rdquo; or &amp;ldquo;What are the biggest obstacles to achieving X, and how can I eliminate them?&amp;rdquo;. It&amp;rsquo;s about identifying the pitfalls and proactively building safeguards against them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lateral thinking</title>
+      <link>http://localhost:42451/posts/lateral-thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/lateral-thinking/</guid>
+      <description>&lt;p&gt;Stuck staring at a problem that just won&amp;rsquo;t budge? Maybe you&amp;rsquo;re approaching it head-on, using the same old logic. What if I told you there&amp;rsquo;s a way to sidestep the obstacle, to attack the problem from an angle you hadn&amp;rsquo;t considered before? Enter &lt;strong&gt;lateral thinking&lt;/strong&gt;, a powerful mental model that helps you unlock creative solutions and find unexpected paths.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-lateral-thinking&#34;&gt;&#xA;  1. What is Lateral Thinking?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-lateral-thinking&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lateral thinking&lt;/strong&gt; is essentially problem-solving through an indirect, creative approach that explores non-obvious paths and unconventional solutions. It&amp;rsquo;s about escaping the tyranny of traditional logic and considering alternatives that might initially seem bizarre or irrelevant. Think of it as the &amp;ldquo;thinking outside the box&amp;rdquo; mental model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Map-territory relation</title>
+      <link>http://localhost:42451/posts/map-territory-relation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/map-territory-relation/</guid>
+      <description>&lt;p&gt;We all use models to understand the world. From simple rules of thumb to complex scientific theories, these mental frameworks help us make sense of the chaos and predict what might happen next. But what happens when we start mistaking the model for the reality it represents? That&amp;rsquo;s where the &lt;strong&gt;Map-territory relation&lt;/strong&gt; comes in, a crucial mental model that keeps us grounded and flexible in our thinking.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-map-territory-relation&#34;&gt;&#xA;  1. What is Map-Territory Relation?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-map-territory-relation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Map-territory relation&lt;/strong&gt; reminds us that a map, or any model we create to represent something, is &lt;em&gt;not&lt;/em&gt; the actual territory, or the real thing. It&amp;rsquo;s a simplified representation, an abstraction, a version tailored for a specific purpose. It&amp;rsquo;s a crucial distinction to remember, especially when making decisions or forming opinions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Occam&#39;s razor</title>
+      <link>http://localhost:42451/posts/occams-razor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/occams-razor/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re constantly bombarded with information, explanations, and solutions, many of which are incredibly complex. But sometimes, the answer isn&amp;rsquo;t hidden in intricate details; it&amp;rsquo;s staring us right in the face. That&amp;rsquo;s where &lt;strong&gt;Occam&amp;rsquo;s razor&lt;/strong&gt; comes in. This powerful mental model helps us cut through the noise and find the simplest, most likely explanation.&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-occams-razor&#34;&gt;&#xA;  1. What is Occam&amp;rsquo;s Razor?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-occams-razor&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Occam&amp;rsquo;s razor&lt;/strong&gt; is the principle that, among competing hypotheses, the one with the fewest assumptions should be selected. Put simply: the simplest explanation is usually the correct one. Don&amp;rsquo;t overcomplicate things!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second-order thinking</title>
+      <link>http://localhost:42451/posts/second-order-thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/second-order-thinking/</guid>
+      <description>&lt;p&gt;We all make decisions every day, from what to eat for breakfast to how to tackle a tricky problem at work. But how deeply do you consider the &lt;em&gt;true&lt;/em&gt; impact of your choices? Too often, we focus on the immediate, visible outcome. That&amp;rsquo;s first-order thinking. But to truly succeed, we need to level up our cognitive game and embrace &lt;strong&gt;Second-Order Thinking&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. What is Second-Order Thinking?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Second-order thinking&lt;/strong&gt; means considering the consequences &lt;em&gt;of the consequences&lt;/em&gt;. It&amp;rsquo;s looking beyond the immediate effects of a decision to understand how that initial effect will ripple outwards, creating further results. It&amp;rsquo;s asking, &amp;ldquo;And then what?&amp;rdquo; after every potential outcome.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thought experiment</title>
+      <link>http://localhost:42451/posts/thought-experiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/posts/thought-experiment/</guid>
+      <description>&lt;p&gt;We all love a good &amp;ldquo;what if&amp;rdquo; scenario, right? What if I took that job? What if I invested in that stock? That natural curiosity is the seed of a powerful mental tool called the &lt;strong&gt;Thought Experiment&lt;/strong&gt;. By using our imagination to explore hypothetical situations, we can gain a deeper understanding of the world and make better decisions. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;1-what-is-a-thought-experiment&#34;&gt;&#xA;  1. What is a Thought Experiment?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-what-is-a-thought-experiment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In its simplest form, a &lt;strong&gt;Thought Experiment&lt;/strong&gt; is a hypothetical scenario used to explore the potential consequences of a principle or theory. Think of it as a mental laboratory where you can test ideas without the constraints of the real world. It allows you to push boundaries, challenge assumptions, and ultimately, reveal insights that might be invisible through direct experimentation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

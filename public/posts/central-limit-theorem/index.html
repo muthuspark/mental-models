@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=42451&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<link rel="icon" type="image/ico" href="http://localhost:42451//favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:42451//favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:42451//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="http://localhost:42451//android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:42451//apple-touch-icon.png">
+
+<meta name="description" content="When independent random variables are added together, their sum tends toward a normal distribution, even if the original variables are not normally distributed."/>
+
+
+
+<title>
+    
+    Central limit theorem | Mental Models 101
+    
+</title>
+
+<link rel="canonical" href="http://localhost:42451/posts/central-limit-theorem/"/>
+
+<meta property="og:url" content="http://localhost:42451/posts/central-limit-theorem/">
+  <meta property="og:site_name" content="Mental Models 101">
+  <meta property="og:title" content="Central limit theorem">
+  <meta property="og:description" content="When independent random variables are added together, their sum tends toward a normal distribution, even if the original variables are not normally distributed.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:tag" content="Numeracy and Interpretation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.645cea0a33677acc57afb24c27ad089b56644d6e166396a36a17c27843baf120.css" media="all">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class="light">
+
+  <div class="content">
+    <header>
+      
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">
+        <a href="http://localhost:42451/">Mental Models 101</a>
+    </h1>
+
+    <div class="flex">
+        
+
+        
+        
+      
+        <p class="small ">
+            <a href="/posts" >
+                /posts
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+
+    </header>
+
+    <main class="main">
+      
+
+
+
+
+<div class="breadcrumbs"><a href="/">Home</a><span class="breadcrumbs-separator">/</span><a href="/posts/">Posts</a><span class="breadcrumbs-separator">/</span>
+        <a href="/posts/central-limit-theorem/">Central limit theorem</a></div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">Central limit theorem</h1>
+    
+
+    
+
+    <p class="single-readtime">
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+  
+
+  <div class="single-tags">
+    
+    <span>
+      <a href="http://localhost:42451/tags/numeracy-and-interpretation/">#Numeracy and Interpretation</a>
+    </span>
+    
+    
+  </div>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <p>The world is a chaotic place, full of unpredictable events. But beneath the surface of randomness lies a powerful force: the <strong>Central Limit Theorem</strong>. This isn’t just a statistical concept; it&rsquo;s a fundamental mental model that helps us understand how patterns emerge from chaos. If you understand this, you&rsquo;ll be one step ahead in navigating everything from investing to understanding customer behavior.</p>
+<h3 class="heading" id="1-what-is-central-limit-theorem">
+  1. What is Central Limit Theorem?
+  <a class="anchor" href="#1-what-is-central-limit-theorem">#</a>
+</h3>
+<p>Simply put, the <strong>Central Limit Theorem</strong> (CLT) states: <em>When independent random variables are added together, their sum (or average) tends toward a normal distribution (the bell curve), even if the original variables are not normally distributed.</em></p>
+<p>Think of it like this: imagine you have a bunch of coins, each slightly biased – some are more likely to land on heads, some on tails. If you flip just one coin, the outcome is unpredictable and skewed. But if you flip all the coins together and average the results (the percentage of heads), the average result will tend toward 50% (a normal distribution) as you flip more and more coins, regardless of the individual biases.</p>
+<p><strong>Where does it come from?</strong> The CLT is a cornerstone of probability theory and statistics, with roots tracing back to the 18th century. Mathematicians like Abraham de Moivre and Pierre-Simon Laplace laid the groundwork, initially focusing on the normal approximation to the binomial distribution. Over time, its generality and importance were recognized across numerous scientific disciplines, from physics to economics to psychology. It isn&rsquo;t tied to one specific discipline; its power lies in its broad applicability to any scenario involving the aggregation of independent random variables.</p>
+<h3 class="heading" id="2-how-it-works-unpacking-the-magic">
+  2. How It Works: Unpacking the Magic
+  <a class="anchor" href="#2-how-it-works-unpacking-the-magic">#</a>
+</h3>
+<p>The <strong>Central Limit Theorem</strong> seems almost magical, but its magic comes from a few key components:</p>
+<ul>
+<li><strong>Random Variables:</strong> These are variables whose values are numerical outcomes of a random phenomenon. Think of rolling a die (the variable) and getting a number between 1 and 6 (the outcome).</li>
+<li><strong>Independence:</strong> This means the variables don&rsquo;t influence each other. The outcome of one roll of the die doesn&rsquo;t affect the next. This is a crucial assumption!</li>
+<li><strong>Sample Size:</strong> The CLT works best when you have a sufficiently large sample of these random variables. The larger the sample, the closer the distribution of the sample means will be to a normal distribution.</li>
+</ul>
+<p><strong>Analogy:</strong> Imagine you&rsquo;re building a wall with bricks. Each brick is slightly different in size and shape (representing our non-normal random variables). If you only use a few bricks, your wall will be wonky. But if you use thousands of bricks, the errors in the individual bricks will average out, and your wall will be relatively straight and uniform – approaching a &ldquo;normal&rdquo; wall, if you will.</p>
+<p><strong>Diagram:</strong></p>
+<pre class="mermaid">[Original Distributions (can be anything: uniform, skewed, bimodal)] --&gt; [Taking many samples of size &#39;n&#39; from each distribution] --&gt; [Calculating the mean of each sample] --&gt; [Distribution of Sample Means (tends to normal as &#39;n&#39; increases)]
+</pre>
+
+<h3 class="heading" id="3-examples-of-the-model-in-action">
+  3. Examples of the Model in Action
+  <a class="anchor" href="#3-examples-of-the-model-in-action">#</a>
+</h3>
+<p>Let&rsquo;s see the <strong>Central Limit Theorem</strong> in action:</p>
+<ul>
+<li>
+<p><strong>Business: Customer Spending:</strong> Suppose you own an online store. Individual customer spending habits are all over the place – some buy a lot, some buy very little. The distribution of individual spending may be highly skewed. However, if you track the <em>average</em> spending per customer each month over a year, the distribution of those monthly averages will likely resemble a normal distribution. This is because each monthly average is essentially the sum of many individual, independent spending decisions. This allows you to forecast future revenue with greater confidence.</p>
+</li>
+<li>
+<p><strong>Investing: Stock Market Returns:</strong> Daily or even weekly stock market returns are often noisy and unpredictable, not following a clear pattern. However, if you calculate the <em>average</em> monthly return over several years, the distribution of these averages will tend toward a normal distribution. This allows investors to use statistical tools, built on the assumption of normality, to assess risk and make investment decisions. Note: while the CLT can help, it doesn&rsquo;t eliminate the risks of investing, especially in situations with low sample sizes or non-independent variables!</p>
+</li>
+<li>
+<p><strong>Personal Life: Sleep Patterns:</strong> Let&rsquo;s say your daily sleep duration is quite variable due to factors like stress, late nights, and early mornings. The distribution of your sleep time might be irregular. However, if you calculate your <em>average</em> sleep duration over a year, the distribution of these yearly averages across multiple years will start to approximate a normal distribution. This helps you see your overall sleep patterns over time, even with daily variations.</p>
+</li>
+</ul>
+<h3 class="heading" id="4-common-misunderstandings-or-pitfalls">
+  4. Common Misunderstandings or Pitfalls
+  <a class="anchor" href="#4-common-misunderstandings-or-pitfalls">#</a>
+</h3>
+<p>The <strong>Central Limit Theorem</strong> is powerful, but understanding its limitations is just as important:</p>
+<ul>
+<li><strong>Normality of Individual Variables:</strong> A common misconception is that the original variables need to be normally distributed for the CLT to work. This is incorrect! The beauty of the CLT is that it applies <em>even if</em> the underlying variables are not normal.</li>
+<li><strong>Independence Assumption:</strong> The CLT relies heavily on the assumption that the random variables are independent. If the variables are correlated (e.g., stock prices tend to move together), the theorem may not hold.</li>
+<li><strong>Sample Size Matters:</strong> The CLT works best with large sample sizes. How &ldquo;large&rdquo; depends on the shape of the original distribution. If the original distribution is very skewed, you&rsquo;ll need a larger sample size for the sample means to converge to a normal distribution. There is no magic number for the perfect sample size.</li>
+</ul>
+<h3 class="heading" id="5-how-to-apply-it-in-daily-life">
+  5. How to Apply It in Daily Life
+  <a class="anchor" href="#5-how-to-apply-it-in-daily-life">#</a>
+</h3>
+<p>How can you use the <strong>Central Limit Theorem</strong> in your daily life?</p>
+<ul>
+<li><strong>Think in Averages:</strong> Focus on averages over time, rather than individual data points. Don’t get hung up on a single bad day at work or a single poor investment decision. Look at the overall trend.</li>
+<li><strong>Consider Sample Size:</strong> Be aware of the limitations of small sample sizes. A few data points are rarely enough to draw meaningful conclusions. Strive to collect more data before making decisions.</li>
+<li><strong>Ask: Are the Variables Independent?</strong> Before applying the CLT, think critically about whether the variables you&rsquo;re analyzing are truly independent. If there&rsquo;s a significant correlation, the CLT may not be applicable.</li>
+<li><strong>Forecast with Caution:</strong> Use the CLT to make predictions, but always remember that it&rsquo;s based on probabilities, not certainties. There will always be some degree of error in your predictions.</li>
+</ul>
+<h3 class="heading" id="6-related-mental-models">
+  6. Related Mental Models
+  <a class="anchor" href="#6-related-mental-models">#</a>
+</h3>
+<p>The <strong>Central Limit Theorem</strong> is strengthened by other mental models:</p>
+<ul>
+<li><strong>Law of Large Numbers:</strong> This states that as a sample size grows, its mean will get closer and closer to the average of the entire population. The CLT explains <em>how</em> this mean tends to be distributed (normally).</li>
+<li><strong>Regression to the Mean:</strong> Extreme events tend to be followed by events closer to the average. The CLT reinforces this idea because averages are more stable than individual events.</li>
+<li><strong>Second-Order Thinking:</strong> The <strong>Central Limit Theorem</strong> encourages second-order thinking. It tells us that the distribution of <em>averages</em> is different than the distribution of the <em>individual</em> events that comprise the average.</li>
+</ul>
+<p>By understanding the <strong>Central Limit Theorem</strong>, you gain a powerful tool for navigating uncertainty and making informed decisions. You&rsquo;ll start to see patterns where others see only randomness, and you&rsquo;ll be better equipped to predict the future – or at least understand the odds.</p>
+
+    
+  </div>
+
+  
+  
+  
+  <script defer
+    type="module"
+    id="mermaid_script"
+    data-light-theme="default"
+    data-dark-theme="dark"
+    src='/js/mermaid.js'>
+  </script>
+  
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flexnowrap">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/posts/chauffeur-knowledge/">
+                        Chauffeur knowledge
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/catalysts/">
+                        Catalysts
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+    </main>
+  </div>
+
+  
+  
+
+
+
+
+
+    
+
+
+
+
+  <footer>
+    
+
+    
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+    <p>Collection of Mental Models compiled with ♥</p>
+    
+
+
+  </footer>
+
+  
+</body>
+
+<script src="/js/theme-switch.js"></script>
+<script defer src="/js/copy-code.js"></script>
+</html>

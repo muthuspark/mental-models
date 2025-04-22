@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=42451&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<link rel="icon" type="image/ico" href="http://localhost:42451//favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:42451//favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:42451//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="http://localhost:42451//android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:42451//apple-touch-icon.png">
+
+<meta name="description" content="Mathematical tools for understanding the possible arrangements and groupings of elements, essential for probability calculations."/>
+
+
+
+<title>
+    
+    Permutations and combinations | Mental Models 101
+    
+</title>
+
+<link rel="canonical" href="http://localhost:42451/posts/permutations-and-combinations/"/>
+
+<meta property="og:url" content="http://localhost:42451/posts/permutations-and-combinations/">
+  <meta property="og:site_name" content="Mental Models 101">
+  <meta property="og:title" content="Permutations and combinations">
+  <meta property="og:description" content="Mathematical tools for understanding the possible arrangements and groupings of elements, essential for probability calculations.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:tag" content="Numeracy and Interpretation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.645cea0a33677acc57afb24c27ad089b56644d6e166396a36a17c27843baf120.css" media="all">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class="light">
+
+  <div class="content">
+    <header>
+      
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">
+        <a href="http://localhost:42451/">Mental Models 101</a>
+    </h1>
+
+    <div class="flex">
+        
+
+        
+        
+      
+        <p class="small ">
+            <a href="/posts" >
+                /posts
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+
+    </header>
+
+    <main class="main">
+      
+
+
+
+
+<div class="breadcrumbs"><a href="/">Home</a><span class="breadcrumbs-separator">/</span><a href="/posts/">Posts</a><span class="breadcrumbs-separator">/</span>
+        <a href="/posts/permutations-and-combinations/">Permutations and combinations</a></div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">Permutations and combinations</h1>
+    
+
+    
+
+    <p class="single-readtime">
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+  
+
+  <div class="single-tags">
+    
+    <span>
+      <a href="http://localhost:42451/tags/numeracy-and-interpretation/">#Numeracy and Interpretation</a>
+    </span>
+    
+    
+  </div>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <p>Ever wondered how many different ways you can arrange your bookshelf? Or how likely you are to win the lottery? The mental model of <strong>permutations and combinations</strong> can help you answer these questions and so much more. It&rsquo;s a powerful tool for understanding the vast landscape of possibilities around us, allowing for better decision-making and a deeper understanding of probability.</p>
+<h3 class="heading" id="1-what-are-permutations-and-combinations">
+  1. What are Permutations and Combinations?
+  <a class="anchor" href="#1-what-are-permutations-and-combinations">#</a>
+</h3>
+<p>At its core, <strong>permutations and combinations</strong> are mathematical tools used to determine the number of possible arrangements and groupings of items from a larger set.</p>
+<ul>
+<li><strong>Permutations:</strong> Deal with <em>ordered</em> arrangements. Think of it as a race where the order of finish matters (1st, 2nd, 3rd are distinct outcomes). The order in which you select or arrange the items <em>is</em> important.</li>
+<li><strong>Combinations:</strong> Focus on <em>unordered</em> groupings. Picture a pizza with toppings. Whether you add pepperoni then mushrooms, or mushrooms then pepperoni, the end result – the pizza – is the same. The order in which you select the items <em>is not</em> important.</li>
+</ul>
+<p>This model originates from mathematics, specifically combinatorics, a field dealing with counting, arranging, and selecting discrete objects. Its applications are widespread across various disciplines.</p>
+<h3 class="heading" id="2-how-it-works">
+  2. How It Works
+  <a class="anchor" href="#2-how-it-works">#</a>
+</h3>
+<p>Think of it like this: you&rsquo;re choosing outfits from your closet.</p>
+<p><strong>Combinations:</strong> You have five t-shirts and three pairs of jeans. How many <em>different outfits</em> can you create (assuming any t-shirt goes with any pair of jeans)? This is a combination problem. You don&rsquo;t care about the order you put on the shirt and pants, just the final outfit.</p>
+<p><strong>Permutations:</strong> Now, let&rsquo;s say you&rsquo;re taking a group photo with three of your five friends. The arrangement of people in the photo <em>matters</em>. Switching positions changes the picture. This is a permutation problem.</p>
+<p>Here&rsquo;s a simple framework:</p>
+<ol>
+<li><strong>Define the Set:</strong> What are the items you are choosing from? (e.g., t-shirts, friends)</li>
+<li><strong>Determine Significance of Order:</strong> Does the order matter (permutation) or not (combination)?</li>
+<li><strong>Calculate:</strong> You can use formulas (n!/(n-r)! for permutations, n!/(r!(n-r)!) for combinations) or calculators to find the exact number of possibilities. Where &rsquo;n&rsquo; represents the total number of items, and &lsquo;r&rsquo; represents the number of items you are choosing.</li>
+</ol>
+<p><strong>Analogy: Ice Cream Cones</strong></p>
+<p>Imagine you have 5 flavors of ice cream.</p>
+<ul>
+<li><strong>Combination (One Scoop):</strong> How many different <em>single scoop</em> cones can you make? (5 choices) The order doesn&rsquo;t matter; vanilla is vanilla.</li>
+<li><strong>Permutation (Double Scoop, Different Flavors):</strong> How many different <em>double scoop</em> cones can you make where the order <em>does</em> matter (vanilla on top of chocolate is different from chocolate on top of vanilla) and you can’t have the same flavor twice? (5 options for the first scoop, 4 for the second, so 5 * 4 = 20).</li>
+</ul>
+<h3 class="heading" id="3-examples-of-the-model-in-action">
+  3. Examples of the Model in Action
+  <a class="anchor" href="#3-examples-of-the-model-in-action">#</a>
+</h3>
+<ul>
+<li>
+<p><strong>Business: A/B Testing.</strong> Imagine you&rsquo;re testing different website designs. You want to test three different headlines and two different images. Using <strong>permutations and combinations</strong>, you can quickly calculate how many unique website variations you need to create and test to cover all possible combinations (3 headlines * 2 images = 6 variations). This ensures a robust A/B testing strategy.</p>
+</li>
+<li>
+<p><strong>Personal Life: Meal Planning.</strong> You want to eat healthy and are trying to plan out your meals for the week. If you have 4 proteins, 5 vegetables, and 3 carbohydrates you enjoy, you can use <strong>permutations and combinations</strong> to determine how many unique meal combinations you have available to you each week!</p>
+</li>
+<li>
+<p><strong>Investing: Portfolio Diversification.</strong> If you want to build a stock portfolio and you have 10 different stocks you are considering. How many ways can you select a portfolio of three stocks? That&rsquo;s a combination problem. Understanding this helps you assess the diversification of your portfolio.</p>
+</li>
+</ul>
+<h3 class="heading" id="4-common-misunderstandings-or-pitfalls">
+  4. Common Misunderstandings or Pitfalls
+  <a class="anchor" href="#4-common-misunderstandings-or-pitfalls">#</a>
+</h3>
+<p>The most common mistake is confusing permutations and combinations. Always ask yourself: Does the order of selection <em>matter</em>? If yes, it&rsquo;s a permutation. If no, it&rsquo;s a combination. Another error is failing to account for restrictions or constraints. For example, you might need to exclude certain items based on specific rules. Ensure you clearly understand the restrictions or constraints of a particular problem.</p>
+<h3 class="heading" id="5-how-to-apply-it-in-daily-life">
+  5. How to Apply It in Daily Life
+  <a class="anchor" href="#5-how-to-apply-it-in-daily-life">#</a>
+</h3>
+<ul>
+<li><strong>Before making a decision, consider the possibilities.</strong> What are all the potential outcomes, and how likely are they? This helps avoid impulsive choices.</li>
+<li><strong>When evaluating risk, think about the potential combinations of events.</strong> What are the worst-case scenarios? How likely are they to occur together?</li>
+<li><strong>Use it to optimize processes.</strong> Can you rearrange steps to improve efficiency? How many different routes can you take to work and what might the chances be of encountering traffic on them?</li>
+<li><strong>Question:</strong> &ldquo;How many different ways can this happen?&rdquo; Asking this simple question pushes you to think combinatorially.</li>
+</ul>
+<h3 class="heading" id="6-related-mental-models">
+  6. Related Mental Models
+  <a class="anchor" href="#6-related-mental-models">#</a>
+</h3>
+<ul>
+<li><strong>Probability:</strong> Permutations and combinations are foundational to calculating probabilities. Understanding these arrangements helps determine the likelihood of specific events.</li>
+<li><strong>Decision Trees:</strong> Helps visualize potential outcomes and choices, and complements permutations and combinations by mapping out the paths and their associated probabilities.</li>
+<li><strong>First Principles Thinking:</strong> Break down complex problems into their fundamental components, which can then be recombined using permutation and combination principles to explore different solutions.</li>
+</ul>
+<p>By understanding and applying the mental model of <strong>permutations and combinations</strong>, you can enhance your understanding of possibilities, make more informed decisions, and navigate the complexities of life with greater clarity. It&rsquo;s a powerful tool for anyone seeking to unlock the potential within their own decisions.</p>
+
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flexnowrap">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/posts/peter-principle/">
+                        Peter principle
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/parity-conditions/">
+                        Parity conditions
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+    </main>
+  </div>
+
+  
+  
+
+
+
+
+
+    
+
+
+
+
+  <footer>
+    
+
+    
+    
+
+
+
+
+
+    
+
+
+
+
+    
+    
+    
+    <p>Collection of Mental Models compiled with ♥</p>
+    
+
+
+  </footer>
+
+  
+</body>
+
+<script src="/js/theme-switch.js"></script>
+<script defer src="/js/copy-code.js"></script>
+</html>

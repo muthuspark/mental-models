@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mental Models 101</title>
+    <link>http://localhost:42451/tags/</link>
+    <description>Recent content in Tags on Mental Models 101</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:42451/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biological World</title>
+      <link>http://localhost:42451/tags/biological-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/biological-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics and Strategy</title>
+      <link>http://localhost:42451/tags/economics-and-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/economics-and-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human Nature and Judgment</title>
+      <link>http://localhost:42451/tags/human-nature-and-judgment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/human-nature-and-judgment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numeracy and Interpretation</title>
+      <link>http://localhost:42451/tags/numeracy-and-interpretation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/numeracy-and-interpretation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physical World</title>
+      <link>http://localhost:42451/tags/physical-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/physical-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Political Failure</title>
+      <link>http://localhost:42451/tags/political-failure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/political-failure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rule of Law</title>
+      <link>http://localhost:42451/tags/rule-of-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/rule-of-law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>http://localhost:42451/tags/systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>http://localhost:42451/tags/thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42451/tags/thinking/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
