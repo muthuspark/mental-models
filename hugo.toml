@@ -41,6 +41,10 @@ listDateFormat = '02 Jan 2006'
 # Main menu pages
 
 [[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
 name = "posts"
 url = "/posts"
 

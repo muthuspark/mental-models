@@ -2,6 +2,7 @@
 set -e  # Exit on any error
 hugo
 echo "Running pagefind..."
+npx -y pagefind --site public
 echo "Building site with Hugo..."
 echo "Copying ads.txt..."
 cp ads.txt public/ads.txt
