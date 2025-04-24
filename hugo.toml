@@ -45,8 +45,8 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
+name = "tags"
+url = "/tags"
 
 [caches]
   [caches.images]
